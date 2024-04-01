@@ -1929,7 +1929,7 @@ blockquote {
     top: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(9, 9, 121, 1);
+    background: linear-gradient(211deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 43%, rgba(0, 212, 255, 9) 100%);
     z-index: 99;
     padding: 30px 30px 10px;
     text-align: center;
