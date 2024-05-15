@@ -4,21 +4,42 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
-  <loc>http://kismatduwadi.com.np/</loc>
-  <lastmod>2024-04-01T03:37:02+00:00</lastmod>
+  <loc>https://kismatduwadi.com.np/</loc>
+  <lastmod>2024-05-11T15:39:59+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://kismatduwadi.com.np/blog-post.html</loc>
-  <lastmod>2024-04-01T03:37:02+00:00</lastmod>
+  <loc>https://kismatduwadi.com.np/KismatDuwadiResume.pdf</loc>
+  <lastmod>2024-05-11T15:39:59+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://kismatduwadi.com.np/index.html</loc>
-  <lastmod>2024-04-01T03:37:02+00:00</lastmod>
+  <loc>https://kismatduwadi.com.np/blog-post.html</loc>
+  <lastmod>2024-05-11T15:39:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kismatduwadi.com.np/blog-post-2.html</loc>
+  <lastmod>2024-05-11T15:39:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kismatduwadi.com.np/blog-post-3.html</loc>
+  <lastmod>2024-05-11T15:39:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kismatduwadi.com.np/blog-post-4.html</loc>
+  <lastmod>2024-05-11T15:39:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kismatduwadi.com.np/index.html</loc>
+  <lastmod>2024-05-11T15:39:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
